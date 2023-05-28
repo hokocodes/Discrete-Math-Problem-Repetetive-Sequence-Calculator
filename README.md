@@ -1,6 +1,9 @@
+This is a program to figure out the math problem for CS 1302 in the University of the People. It is for Discrete Mathematics. 
+
 # repetetivesequence
 
 # math problem 
+This math problem is as so:
 
 Choose any positive integer. Powers of two here are not very interesting, so choose something else.
 
